@@ -1,1 +1,1 @@
-.s2i/bin/assemble
+/usr/libexec/s2i/assemble
